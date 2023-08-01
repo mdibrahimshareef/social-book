@@ -447,6 +447,5 @@ h5 {
 .load-more-btn:hover {
   background-color: black;
   color: white;
-  transform: translateX(1.5);
-  border: 3px solid #1876f2;
+  border: 1.5px solid #1876f2;
 }
